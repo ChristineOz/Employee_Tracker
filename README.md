@@ -10,7 +10,12 @@
 7. [License](#license)
 8. [Questions](#questions)
 ## Project Description
-* A organizing system that allows a company to track employee information. 
+* A organizing system that allows a company to track employee information. <br>
+
+<img width="716" alt="Screen Shot 2021-05-27 at 10 27 48 PM" src="https://user-images.githubusercontent.com/77952267/119920731-cf307580-bf3a-11eb-83ed-991fe2fa35fb.png"> <br>
+
+VIDEO DEMO: https://drive.google.com/file/d/11kQ_yclmPPM6dRCUcdrtATX4OB010bh-/view 
+
 ## Installation Instructions
 * You must git clone the repo, npm install, then create a database Schema.sql and seed files. 
 ## Usage Information
@@ -22,7 +27,7 @@
 ## Test Instructions
 * N/A
 ## License
-* licensed under the [MIT License](LICENSE.txt)
+* licensed under the [MIT License]
 ## Questions
 * For additional help or questions about collaboration, please reach out to Christineosmak@gmail.com
 * Follow me on Github at [ChristineOz](http://github.com/ChristineOz)
