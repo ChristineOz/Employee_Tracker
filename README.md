@@ -14,7 +14,8 @@
 
 <img width="716" alt="Screen Shot 2021-05-27 at 10 27 48 PM" src="https://user-images.githubusercontent.com/77952267/119920731-cf307580-bf3a-11eb-83ed-991fe2fa35fb.png"> <br>
 
-VIDEO DEMO: https://drive.google.com/file/d/11kQ_yclmPPM6dRCUcdrtATX4OB010bh-/view 
+VIDEO DEMO: https://drive.google.com/file/d/11kQ_yclmPPM6dRCUcdrtATX4OB010bh-/view <br>
+Github Pages: https://christineoz.github.io/Employee_Tracker/
 
 ## Installation Instructions
 * You must git clone the repo, npm install, then create a database Schema.sql and seed files. 
